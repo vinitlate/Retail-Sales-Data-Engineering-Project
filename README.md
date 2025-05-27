@@ -114,7 +114,7 @@ This enables visualizations like:
 **Vinit Late**  
 🎓 Master’s in Business Analytics — Bentley University  
 💼 Data & Project Management Intern @ Corteva Agriscience  
-🔗 [LinkedIn](https://linkedin.com/in/yourprofile) (replace with your actual link)
+🔗 [LinkedIn](https://linkedin.com/in/vinitlate)
 
 ---
 
