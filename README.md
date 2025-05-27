@@ -5,16 +5,17 @@ This project demonstrates a complete data lakehouse architecture using **Databri
 ---
 
 ## 📁 Project Structure
+```
 retail-datalake-databricks/
-- bronze/
+├──bronze/
 │ ├── Bronze_Layer_Customer_Load.py
 │ ├── Bronze_Layer_Product_Load.py
 │ └── Bronze_Layer_Transaction_Load.py
-- silver/
+├──silver/
 │ ├── Silver_Layer_Customer_Load.py
 │ ├── Silver_Layer_Product_Load.py
 │ └── Silver_Layer_Transactions_Load.py
-- gold/
+├──gold/
 │ ├── Gold_Layer_Daily_Sales.py
 │ ├── Gold_Layer_Daily_Sales_By_Category.py
 │ ├── Gold_Layer_Customer_Summary.py
@@ -25,7 +26,7 @@ retail-datalake-databricks/
 │ ├── Gold_Layer_Products.py
 │ └── Gold_Layer_Orders.py
 ├── README.md
-
+```
 
 ---
 
